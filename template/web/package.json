@@ -51,7 +51,7 @@
     "shikiji-core": "^0.9.17",
     "unified": "^11.0.4",
     "viem": "2.x",
-    "wagmi": "2",
+    "wagmi": "2.12.23",
     "workbox-webpack-plugin": "^7.0.0"
   },
   "devDependencies": {
